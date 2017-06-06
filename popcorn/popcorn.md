@@ -1,0 +1,3 @@
+- [RU] [Debts](https://habrahabr.ru/post/307282/)
+- [RU] [Difficulties when working with time](https://habrahabr.ru/post/313274/)
+- [RU/EN] [Selection of coding games](https://habrahabr.ru/company/edison/blog/315696/)
