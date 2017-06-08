@@ -2,6 +2,7 @@
 - [RU] [java.util.concurrent overview](https://habrahabr.ru/company/luxoft/blog/157273/)
 - [RU] [Java synchronizers](https://habrahabr.ru/post/277669/)
 - [EN] [JLS ch.17](https://docs.oracle.com/javase/specs/jls/se8/html/jls-17.html)
+- [EN] [Java concurrent animated](https://sourceforge.net/projects/javaconcurrenta/)
 
 ## Advanced
 - [RU] [Multithreading overview](https://habrahabr.ru/post/318374/)
