@@ -7,3 +7,4 @@
 - [EN] [Programming by Doing](https://programmingbydoing.com/)
 - [EN] [HackerRank](https://www.hackerrank.com)
 - [RU] [SQL practice](http://sql-ex.ru/) [+tests]
+- [EN] [99 scala tasks](http://aperiodic.net/phil/scala/s-99/) [+solutions]
