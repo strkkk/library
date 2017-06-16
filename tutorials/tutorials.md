@@ -6,3 +6,4 @@
 - [EN] [Java best practices](http://www.javapractices.com/home/HomeAction.do)
 - [EN] [w3schools](https://www.w3schools.com/) [JS, CSS, XML, HTML]
 - [RU] [learn.javascript.ru](https://learn.javascript.ru/) [JS]
+- [MANY] [Learn X in Y minutes](https://learnxinyminutes.com/)
